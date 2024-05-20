@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d7febbb-4803-4c1c-924e-49ab17f4e2dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/IntToLongFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/LongPredicateExample.java" afterDir="false" />
+    <list default="true" id="6d7febbb-4803-4c1c-924e-49ab17f4e2dc" name="Changes" comment="sent late">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/IntToLongFunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/IntToLongFunction.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +37,7 @@
     "Application.BiConsumerExample.executor": "Run",
     "Application.BiFunctionExample.executor": "Run",
     "Application.ConsumerExample.executor": "Run",
+    "Application.IntToLongFunctionExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -60,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConsumerExample">
+  <component name="RunManager" selected="Application.IntToLongFunctionExample">
     <configuration name="BiConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.africa.semicolon.BiConsumerExample" />
       <module name="lamdas" />
@@ -113,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntToLongFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.africa.semicolon.IntToLongFunctionExample" />
+      <module name="lamdas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.africa.semicolon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntToLongFunctionExample" />
         <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.BiConsumerExample" />
         <item itemvalue="Application.BiFunctionExample" />
@@ -138,12 +143,25 @@
       <option name="presentableId" value="Default" />
       <updated>1716048214322</updated>
       <workItem from="1716048215399" duration="6000" />
-      <workItem from="1716117612491" duration="7197000" />
+      <workItem from="1716117612491" duration="7632000" />
     </task>
+    <task id="LOCAL-00001" summary="sent late">
+      <option name="closed" value="true" />
+      <created>1716193448858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716193448858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sent late" />
+    <option name="LAST_COMMIT_MESSAGE" value="sent late" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
